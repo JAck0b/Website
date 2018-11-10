@@ -4,5 +4,5 @@ while [ true ];do
   echo "Difference: "
   diff ./website.txt ./site.txt
   cat ./website.txt > ./site.txt
-  git commit ./site.txt ./website.txt -m "New site."
+  git commit ./site.txt ./website.txt -m "New site." > /dev/null
 done
