@@ -8,7 +8,7 @@ Time.is
 
     
    Aktualny czas w Polska:
-   23:07:46
+   23:07:58
 
 Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
 wyłączona w przeglądarce.
